@@ -38,7 +38,7 @@ Bungee bot Telegram - плагин для прокси сервера Bungeecord
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
